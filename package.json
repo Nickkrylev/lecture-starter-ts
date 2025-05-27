@@ -1,5 +1,5 @@
 {
-    "name": "lecture-starter-typescript",
+    "name": "bsa-lecture-starter-typescript",
     "version": "2.0.0",
     "scripts": {
         "setup": "npm install && npx simple-git-hooks",
@@ -12,22 +12,22 @@
     "license": "ISC",
     "type": "module",
     "devDependencies": {
-        "@commitlint/types": "^19.0.3",
+        "@commitlint/types": "^19.8.1",
         "@typescript-eslint/eslint-plugin": "^7.13.1",
         "@typescript-eslint/parser": "^7.13.1",
-        "commitlint": "^19.3.0",
+        "commitlint": "^19.8.1",
         "eslint-config-airbnb-typescript": "^18.0.0",
-        "eslint-config-prettier": "^9.1.0",
-        "eslint-plugin-prettier": "^5.1.3",
-        "lint-staged": "^15.2.7",
-        "prettier": "^3.3.2",
-        "simple-git-hooks": "^2.11.1",
-        "typescript": "^5.4.5",
-        "vite": "^5.3.1"
+        "eslint-config-prettier": "^10.1.5",
+        "eslint-plugin-prettier": "^5.4.0",
+        "lint-staged": "^16.0.0",
+        "prettier": "^3.5.3",
+        "simple-git-hooks": "^2.13.0",
+        "typescript": "^5.8.3",
+        "vite": "^6.3.5"
     },
     "dependencies": {
         "@popperjs/core": "^2.11.8",
-        "bootstrap": "^5.3.3"
+        "bootstrap": "^5.3.6"
     },
     "engines": {
         "node": ">=18.18",
